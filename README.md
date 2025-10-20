@@ -28,3 +28,4 @@ El programa es de lo más simple que he podido hacer mediante mis propios medios
 su desarrollo. Una cosa que es bastante limitante es el hecho de que solo se puede filtrar por un atributo. En el proyecto inicial queria crear
 un objeto persona que recibiera los valores de cada persona dentro del .txt e ir filtrando pero por complejidad me vi obligado a simplificarlo
 bastante.
+
