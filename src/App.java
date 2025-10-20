@@ -2,8 +2,6 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class App {
@@ -78,7 +76,7 @@ public class App {
     showResults(atribute, firstValue);
     showResults(atribute, secondValue);
 
-    System.out.println("✅ Filtrado completado.");
+    System.out.println("Filtrado completado.");
 
     scanner.close();
   }
